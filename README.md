@@ -1,4 +1,4 @@
-# PhosPersPlot - Phosphor Persistence Plotting
+# Phosphor Persistence Plotting
 ## Simulating Phosphor Persistence of Analog Oscilloscopes
 
 These Matlab (or Octave scripts if you set use_gpu = 0) are proof-of-concept and not in a final stage. 
